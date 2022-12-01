@@ -8,8 +8,6 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAUCAAAAAAVAxSkAAABrUlEQVQ4y+
 
 More text
 
-![image_media_profile_ref]:
-data:image/jpeg;base64,/media/profile.txt
 
 Computer scientist, Test automation engineer.
 
