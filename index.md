@@ -34,30 +34,30 @@ Paris XIII University, Graduate Diploma in Software Engineering
 
 ## Jobs
 
-`<span style="font-family:Papyrus; font-size:4em;">2001-2006</span>`
+<span style="font-family:Papyrus; font-size:4em;">`2001-2006`</span>
 Working at Alcatel Mobile Phone as Computer scientist
-* Customization service for embedded mobile application
+*Customization service for embedded mobile application
 
-`<span style="font-family:Papyrus; font-size:4em;">2006-2008</span>`
+<span style="font-family:Papyrus; font-size:4em;">`2006-2008`</span>
 Working at Sagem Mobile Phone as Computer scientist
-* Integration service for embedded mobile application
+*Integration service for embedded mobile application
 
 `2009-2021`
 Working at Ingenico as Computer scientist
-* Test automation engineer for embedded mobile application
+*Test automation engineer for embedded mobile application
 
 `2021-Now`
 Working at Worldline as Computer scientist
-* Test automation engineer for embedded mobile application
+*Test automation engineer for embedded mobile application
 
 
 
 ## Occupation
 
-* Coding
-* Domotic
-* Video games
-* Tennis
+*Coding
+*Domotic
+*Video games
+*Tennis
 
 
 
