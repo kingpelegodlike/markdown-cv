@@ -28,11 +28,11 @@ Test automation engineer
 ## Education
 
 `1992`
-__Paris XIII University, Graduate Diploma in Software Engineering
+Paris XIII University, Graduate Diploma in Software Engineering
 
 
 
-### Jobs
+## Jobs
 
 `2001-2006`
 Working at Alcatel Mobile Phone as Computer scientist
