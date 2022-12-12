@@ -3,7 +3,7 @@ layout: cv
 title: Xavier Duval's CV
 ---
 # Xavier Duval
-![](data:image/png;base64,./media/profile.txt]
+![](data:image/png;base64,@@include[](./media/profile.txt)]
 
 
 Computer scientist, Test automation engineer.
