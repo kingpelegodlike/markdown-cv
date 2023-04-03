@@ -34,11 +34,11 @@ Paris XIII University, Graduate Diploma in Software Engineering
 
 ## Jobs
 
-<span style="font-family:Papyrus; font-size:4em;">`2001-2006`</span>
+`2001-2006`
 Working at Alcatel Mobile Phone as Computer scientist
 *Customization service for embedded mobile application
 
-<span style="font-family:Papyrus; font-size:4em;">`2006-2008`</span>
+`2006-2008`
 Working at Sagem Mobile Phone as Computer scientist
 *Integration service for embedded mobile application
 
